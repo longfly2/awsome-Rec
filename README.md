@@ -1,9 +1,9 @@
 # Ad-Rec（程序化广告-群体推荐系统）
-> ###先导参考
+> ##先导参考
 > * [大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 > * [程序化广告](https://github.com/Tulongf/rtb-papers)<br>
 
-> ##学习路线（1）-推荐系统
+##学习路线（1）-推荐系统
 ###Get Started
 (1)[IBM文库：探索推荐引擎内部的秘密，第 1 部分，推荐引擎初探](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html#icomments)<br>
 (2)[IBM文库：探索推荐引擎内部的秘密，第 2 部分，深入推荐引擎相关算法 - 协同过滤](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/)<br>
