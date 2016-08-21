@@ -14,12 +14,12 @@
 * [Recommender Systems Handbook](http://vdisk.weibo.com/s/uu2R8eaP7t3v1)
 
 ####Conference & Journal
--RecSys
--SIGIR
--KDD
--WSDM
--WWW
--ICDM
+* RecSys
+* SIGIR
+* KDD
+* WSDM
+* WWW
+* ICDM
 
 ####Paperlist
 
