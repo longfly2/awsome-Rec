@@ -4,19 +4,19 @@
 > * 竞价广告，[链接](https://github.com/Tulongf/rtb-papers)<br>
 
 ##知识脉络
-一、交叉领域（研究问题）
-（1）推荐系统，群体推荐
-（2）机器学习
-（3）计算广告
-（4）算法策略
-二、数学知识（研究方法）
-（1）微积分学
-（2）矩阵理论
-（3）概率论
-三、应用（应用场景）
-（1）分布式系统，Hadoop
-（2）内存计算，Spark
-（3）存储引擎，图存储
+一、交叉领域（研究问题）<br>
+（1）推荐系统，群体推荐<br>
+（2）机器学习<br><br>
+（3）计算广告<br>
+（4）算法策略<br>
+二、数学知识（研究方法）<br>
+（1）微积分学<br>
+（2）矩阵理论<br>
+（3）概率论<br>
+三、应用（应用场景）<br>
+（1）分布式系统，Hadoop<br>
+（2）内存计算，Spark<br>
+（3）存储引擎，图存储<br>
 
 ##学习路线（1）-推荐系统
 ###Get Started
@@ -53,16 +53,16 @@
 
 ###Conference & Journal
 * Data Analysis
-** RecSys
-** SIGIR
-** KDD
-** WSDM
-** WWW
-** ICDM
+  * RecSys
+  * SIGIR
+  * KDD
+  * WSDM
+  * WWW
+  * ICDM
 * Advertising
-* * ADKDD,[地址](http://www.adkdd.com/)
-* * PAKDD ,[地址](http://www.adkdd.com/)
-* * ECML-PKDD,[地址](http://www.adkdd.com/)
+  * ADKDD,[地址](http://www.adkdd.com/)
+  * PAKDD ,[地址](http://www.adkdd.com/)
+  * ECML-PKDD,[地址](http://www.adkdd.com/)
 
 ###Paperlist
 *[1] ADKDD 2014 Best paper
