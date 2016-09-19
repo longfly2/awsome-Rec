@@ -1,4 +1,4 @@
-# awsome-Rec（程序化广告-群体推荐系统）
+# awsome-Rec（推荐系统）
 > ##先导参考
 > * 大数据/推荐系统，[链接](https://github.com/Tulongf/Big_Data_Resources)<br> 
 
