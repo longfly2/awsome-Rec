@@ -29,11 +29,11 @@
 
 
 ###视频教程
-（1）[Recommender systems by The University of Minnesota](https://www.coursera.org/learn/recommender-systems?siteID=Gr6prw2kaB0-gBhbyC5EIuFSTz2MMu.dYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Gr6prw2kaB0#) 
-（2）《计算广告学》，刘鹏，[地址](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)
-（3）Stanford – Introduction to Computational Advertising，[地址](http://web.stanford.edu/class/msande239/)
-（4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR, [地址](http://iir.ruc.edu.cn/courses/ca2013.jsp)
-（5）UCSC-Introduction to Computational Advertising，[地址](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)
+ *（1）[Recommender systems by The University of Minnesota](https://www.coursera.org/learn/recommender-systems?siteID=Gr6prw2kaB0-gBhbyC5EIuFSTz2MMu.dYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Gr6prw2kaB0#) 
+ *（2）《计算广告学》，刘鹏，[地址](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)
+ *（3）Stanford – Introduction to Computational Advertising，[地址](http://web.stanford.edu/class/msande239/)
+ *（4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR, [地址](http://iir.ruc.edu.cn/courses/ca2013.jsp)
+ *（5）UCSC-Introduction to Computational Advertising，[地址](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)
 
 
 ###Booklist
