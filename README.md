@@ -1,7 +1,22 @@
 # Ad-Rec（程序化广告-群体推荐系统）
 > ##先导参考
-> * [大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
-> * [竞价广告](https://github.com/Tulongf/rtb-papers)<br>
+> * 大数据/推荐系统，[链接](https://github.com/Tulongf/Big_Data_Resources)<br> 
+> * 竞价广告，[链接](https://github.com/Tulongf/rtb-papers)<br>
+
+##知识脉络
+一、交叉领域（研究问题）
+（1）推荐系统，群体推荐
+（2）机器学习
+（3）计算广告
+（4）算法策略
+二、数学知识（研究方法）
+（1）微积分学
+（2）矩阵理论
+（3）概率论
+三、应用（应用场景）
+（1）分布式系统，Hadoop
+（2）内存计算，Spark
+（3）存储引擎，图存储
 
 ##学习路线（1）-推荐系统
 ###Get Started
@@ -11,10 +26,14 @@
 
 ###知识图谱
 > (1)基本研究问题
-> ![image](https://github.com/Tulongf/Ad-Rec/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B11-%E7%A0%94%E7%A9%B6%E9%97%AE%E9%A2%98.png)
+
 
 ###视频教程
 （1）[Recommender systems by The University of Minnesota](https://www.coursera.org/learn/recommender-systems?siteID=Gr6prw2kaB0-gBhbyC5EIuFSTz2MMu.dYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Gr6prw2kaB0#) 
+（2）《计算广告学》，刘鹏，[地址](http://study.163.com/course/introduction.htm?courseId=321007#/courseDetail)
+（3）Stanford – Introduction to Computational Advertising，[地址](http://web.stanford.edu/class/msande239/)
+（4）秒针系统2013在人大开过一门计算广告学的课 RUC DB-IIR, [地址](http://iir.ruc.edu.cn/courses/ca2013.jsp)
+（5）UCSC-Introduction to Computational Advertising，[地址](https://classes.soe.ucsc.edu/ism293/Spring09/index_archivos/Page456.html)
 
 
 ###Booklist
@@ -22,13 +41,40 @@
 * [蒋凡，推荐系统(没找到完整版pdf)](http://download.csdn.net/detail/markman101/8667831)
 * [Recommender Systems Handbook](http://vdisk.weibo.com/s/uu2R8eaP7t3v1)
 
+###业界大牛&知名博客
+* 清华大学-靳晓明， [地址](http://www.tsinghua.edu.cn/publish/soft/3641/2010/20101214205115366908394/20101214205115366908394_.html)
+* Yahoo! Research-Andrei Broder， [链接](#)
+* Yahoo! Research-Vanja Josifovski，[链接](#)
+
+###重要机构&实验室
+* Yahoo! Labs，[地址] (https://research.yahoo.com/)
+* Google Adense ,[地址](https://adsense.googleblog.com/ )
+
+
 ###Conference & Journal
-* RecSys
-* SIGIR
-* KDD
-* WSDM
-* WWW
-* ICDM
+* Data Analysis
+** RecSys
+** SIGIR
+** KDD
+** WSDM
+** WWW
+** ICDM
+* Advertising
+* * ADKDD,[地址](http://www.adkdd.com/)
+* * PAKDD ,[地址](http://www.adkdd.com/)
+* * ECML-PKDD,[地址](http://www.adkdd.com/)
 
 ###Paperlist
+*[1] ADKDD 2014 Best paper
+Chen, Bowei, Yuan, Shuai, Wang, Jun. A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising[C]// Eighth International Workshop on Data Mining for Online Advertising. ACM, 2014.
+(展示广告主要有两种销售方式，竞价拍卖RTB、合同定制，这篇文章提出一种数学模型拟合两种方式对比结果。)
+
+*[2] ADKDD 2013 Best paper
+Real-time Bidding for Online Advertising: Measurement and Analysis. 
+（综述性文章，实时竞价策略，CTR/CVR优化策略）
+
+*[3] Yahoo! Labs
+Amer-Yahia S, Roy S B, Chawlat A, et al. Group recommendation: semantics and efficiency[J]. Proceedings of the Vldb Endowment, 2009, 2(1):754-765.
+(主要解决群体推荐的分歧问题，有一部分人喜欢xx、但另外一部分人不喜欢xx,文章提出一个语义化的方法去计算user-item相关性)
+
 
