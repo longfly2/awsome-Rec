@@ -1,6 +1,6 @@
 # awsome-Rec
 > ##先导参考
-> *[大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
+> * [大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 
 ##资源索引
 * [推荐系统重要会议和期刊](http://www.voidcn.com/blog/zzp_403184692/article/p-6124193.html)
@@ -21,7 +21,8 @@
 * [蒋凡，推荐系统](http://download.csdn.net/detail/markman101/8667831)
 * [Recommender Systems Handbook](http://vdisk.weibo.com/s/uu2R8eaP7t3v1)
 
-##业界大牛&知名博客
+##博客收藏
+* [推荐系统公共资源汇总](http://aoyouzi.iteye.com/blog/1845235)
 
 
 ##重要机构&实验室
