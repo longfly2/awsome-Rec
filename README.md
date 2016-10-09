@@ -34,6 +34,7 @@
  * [RecSys: The ACM Conference Series on Recommender Systems](http://recsys.acm.org/)
  * [SIGIR: Special Interest Group on Information Retrieval](http://sigir.org/)
  * [UMAP: Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2016/)
+ * [CHI: ACM CHI 2016: the top conference for Human-Computer Interaction](http://chi2016.acm.org/wp/)
  * [ICDM: Industrial Conference on Data Mining](http://www.cs.uvm.edu/~icdm/)
  * [CIKM: ACM International Conference on Information andKnowledge Management](http://www.cikm.org/)
  * [WSDM: The ACM WSDM Conference Series](http://www.wsdm-conference.org/)
