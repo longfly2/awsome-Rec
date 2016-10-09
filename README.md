@@ -1,4 +1,4 @@
-# awsome-Rec（推荐系统）
+# awsome-Rec
 > ##先导参考
 > *[大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 
