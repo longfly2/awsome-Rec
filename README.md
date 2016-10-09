@@ -34,6 +34,7 @@
  * [RecSys: The ACM Conference Series on Recommender Systems](http://recsys.acm.org/)
  * [SIGIR: Special Interest Group on Information Retrieval](http://sigir.org/)
  * [UMAP: Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2016/)
+ * [UMUAI: User Modeling and User-Adapted Interaction](http://www.umuai.org/)
  * [CHI: ACM CHI 2016: the top conference for Human-Computer Interaction](http://chi2016.acm.org/wp/)
  * [ICDM: Industrial Conference on Data Mining](http://www.cs.uvm.edu/~icdm/)
  * [CIKM: ACM International Conference on Information andKnowledge Management](http://www.cikm.org/)
@@ -51,7 +52,7 @@
  * [ACM TOIS: ACM Transactions on Information Systems (TOIS)](http://tois.acm.org/)
  * [ACM TIST: ACM TIST | Intelligent Systems and Technology](http://tist.acm.org/)
  * [ACM TKDD: The ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
- * [ACM TKDD: The ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
+ * [ACM TOCHI: ACM Transactions on Computer-Human Interaction](https://tochi.acm.org/)
 
 ##Paperlist
 
