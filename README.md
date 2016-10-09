@@ -45,6 +45,8 @@
  * [SIGCHI: Special Interest Group on Computer-Human Interaction](http://www.sigchi.org/)
  * [ECML: Special Interest Group on Computer-Human Interaction](http://www.sigchi.org/)
  * [AAAI: Association for the Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
+ * [ECAI: European Conference on Artificial Intelligence (ECAI)](http://www.ecai2016.org/)
+ * [ECIR: European Conference on Information Retrieval](http://ecir2016.dei.unipd.it/)
  * [IEEE TKDE: IEEE Transactions on Knowledge and Data Engineering • IEEE](https://www.computer.org/web/tkde)
  * [ACM TOIS: ACM Transactions on Information Systems (TOIS)](http://tois.acm.org/)
  * [ACM TIST: ACM TIST | Intelligent Systems and Technology](http://tist.acm.org/)
