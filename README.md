@@ -1,8 +1,8 @@
 # awsome-Rec（推荐系统）
 > ##先导参考
-> * 大数据/推荐系统，[链接](https://github.com/Tulongf/Big_Data_Resources)<br> 
+> *[大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 
-##i资源索引
+##资源索引
 * [推荐系统重要会议和期刊](http://www.voidcn.com/blog/zzp_403184692/article/p-6124193.html)
 
 
@@ -17,9 +17,9 @@
 
 
 ##Booklist
-* 项亮，推荐系统实践 [link](http://vdisk.weibo.com/s/aOL2uYMILo_z1)<br>
-* 蒋凡，推荐系统(没找到完整版pdf) [link](http://download.csdn.net/detail/markman101/8667831)
-* Recommender Systems Handbook [link](http://vdisk.weibo.com/s/uu2R8eaP7t3v1)
+* [项亮，推荐系统实践](http://vdisk.weibo.com/s/aOL2uYMILo_z1)<br>
+* [蒋凡，推荐系统](http://download.csdn.net/detail/markman101/8667831)
+* [Recommender Systems Handbook](http://vdisk.weibo.com/s/uu2R8eaP7t3v1)
 
 ##业界大牛&知名博客
 
