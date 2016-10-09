@@ -28,21 +28,27 @@
 
 ##Conference & Journal
  * [ACM SIGKDD: Special Interest Group on KnowledgeDiscovery and Data Mining](http://www.kdd.org/)
-   * * [ADKDD](http://www.adkdd.com/)
-   * * [PAKDD](http://www.adkdd.com/)
-   * * [ECML-PKDD](http://ecmlpkdd2016.org/)
+   * [ADKDD](http://www.adkdd.com/)
+   * [PAKDD](http://www.adkdd.com/)
+   * [ECML-PKDD](http://ecmlpkdd2016.org/)
  * [RecSys: The ACM Conference Series on Recommender Systems](http://recsys.acm.org/)
  * [SIGIR: Special Interest Group on Information Retrieval](http://sigir.org/)
+ * [UMAP: Conference on User Modeling, Adaptation and Personalization](http://www.um.org/umap2016/)
  * [ICDM: Industrial Conference on Data Mining](http://www.cs.uvm.edu/~icdm/)
  * [CIKM: ACM International Conference on Information andKnowledge Management](http://www.cikm.org/)
  * [WSDM: The ACM WSDM Conference Series](http://www.wsdm-conference.org/)
+ * [ACM EC: ACM Conference on Economics and Computation](http://www.sigecom.org/ec16/)
  * [WWW: International WorldWide Web Conferences](http://www.informatik.uni-trier.de/~ley/db/conf/www/index.html)
  * [ESA: Expert Systems with Applications](http://www.journals.elsevier.com/expert-systems-with-applications/)
  * [IJCAI: International Joint Conference on Artificial Intelligence](http://ijcai-16.org/)
  * [SIGCHI: Special Interest Group on Computer-Human Interaction](http://www.sigchi.org/)
  * [ECML: Special Interest Group on Computer-Human Interaction](http://www.sigchi.org/)
  * [AAAI: Association for the Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
- 
+ * [IEEE TKDE: IEEE Transactions on Knowledge and Data Engineering • IEEE](https://www.computer.org/web/tkde)
+ * [ACM TOIS: ACM Transactions on Information Systems (TOIS)](http://tois.acm.org/)
+ * [ACM TIST: ACM TIST | Intelligent Systems and Technology](http://tist.acm.org/)
+ * [ACM TKDD: The ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
+ * [ACM TKDD: The ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
 
 ##Paperlist
 
