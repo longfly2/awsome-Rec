@@ -12,7 +12,7 @@
 * 概率论<br>
 
 ##视频教程
-（1）Recommender systems by The University of Minnesota [link](https://www.coursera.org/learn/recommender-systems?siteID=Gr6prw2kaB0-gBhbyC5EIuFSTz2MMu.dYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Gr6prw2kaB0#) <br>
+（1）[Recommender systems by The University of Minnesota ](https://www.coursera.org/learn/recommender-systems?siteID=Gr6prw2kaB0-gBhbyC5EIuFSTz2MMu.dYA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=Gr6prw2kaB0#) <br>
 
 
 
