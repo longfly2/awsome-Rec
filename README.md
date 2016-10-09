@@ -28,9 +28,9 @@
 
 ##Conference & Journal
  * [ACM SIGKDD: Special Interest Group on KnowledgeDiscovery and Data Mining](http://www.kdd.org/)
-   ** [ADKDD](http://www.adkdd.com/)
-   ** [PAKDD](http://www.adkdd.com/)
-   ** [ECML-PKDD](http://ecmlpkdd2016.org/)
+   * * [ADKDD](http://www.adkdd.com/)
+   * * [PAKDD](http://www.adkdd.com/)
+   * * [ECML-PKDD](http://ecmlpkdd2016.org/)
  * [RecSys: The ACM Conference Series on Recommender Systems](http://recsys.acm.org/)
  * [SIGIR: Special Interest Group on Information Retrieval](http://sigir.org/)
  * [ICDM: Industrial Conference on Data Mining](http://www.cs.uvm.edu/~icdm/)
