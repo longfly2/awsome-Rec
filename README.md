@@ -53,6 +53,7 @@
  * [ACM TIST: ACM TIST | Intelligent Systems and Technology](http://tist.acm.org/)
  * [ACM TKDD: The ACM Transactions on Knowledge Discovery from Data (TKDD)](http://tkdd.acm.org/)
  * [ACM TOCHI: ACM Transactions on Computer-Human Interaction](https://tochi.acm.org/)
+ * [CACM: Communications of the ACM](http://cacm.acm.org/)
 
 ##Paperlist
 
