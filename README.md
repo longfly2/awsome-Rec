@@ -1,8 +1,8 @@
 # awsome-Rec
-> ##先导参考
+> ## 先导参考
 > * [大数据/推荐系统](https://github.com/Tulongf/Big_Data_Resources)<br> 
 
-##资源索引
+## 资源索引
 * [推荐系统重要会议和期刊](http://www.voidcn.com/blog/zzp_403184692/article/p-6124193.html)
 
 
